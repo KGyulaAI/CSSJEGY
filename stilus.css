@@ -2,3 +2,12 @@ html {
     background-color: #9CEE59;
     color: black;
 }
+
+header {
+
+}
+
+header ul li {
+    list-style-type: none;
+    display: inline-block;
+}
