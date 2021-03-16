@@ -3,11 +3,15 @@ html {
     color: black;
 }
 
-header {
-
+header img{
+    margin: auto;
 }
 
 header ul li {
     list-style-type: none;
     display: inline-block;
+}
+table {
+    width: 980px;
+    border: black;
 }
