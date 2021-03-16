@@ -11,7 +11,10 @@ header ul li {
     list-style-type: none;
     display: inline-block;
 }
-table {
+#kulso {
     width: 980px;
-    border: black;
+    border: none;
+    border-spacing: 0pt;
+    margin: auto;
+    background-color: #509050;
 }
