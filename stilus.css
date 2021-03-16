@@ -11,10 +11,24 @@ header ul li {
     list-style-type: none;
     display: inline-block;
 }
+
 #kulso {
     width: 980px;
     border: none;
     border-spacing: 0pt;
     margin: auto;
     background-color: #509050;
+}
+
+#belso {
+    width: 940px;
+    margin: auto;
+    border: none;
+    background-color: white;
+    border-spacing: 1pt;
+}
+
+#nav {
+    background-color: black;
+    color: white;
 }
